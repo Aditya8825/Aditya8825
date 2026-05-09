@@ -37,8 +37,7 @@
 <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/">
-<img src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram&logoColor=white"/>
+
 </a>
 
 <a href="https://discord.com/">
